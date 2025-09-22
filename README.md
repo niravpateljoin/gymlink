@@ -11,6 +11,7 @@
 ## Features
 
 - **Search & Filter**: Search for fitness businesses by category, vibe, price, and services.
+- **Natural Language Searchr**: Type keywords or sentences like "Yoga with sauna" to automatically filter results.
 - **Recommendations**: Get personalized fitness business recommendations based on specific goals (e.g., Strength, Relaxation, Community).
 - **Chatbot**: Interact with a chatbot that can filter businesses and provide answers based on natural language queries.
 - **Pagination**: Results are paginated to show a limited number of businesses per page.
