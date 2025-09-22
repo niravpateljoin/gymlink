@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "Power Gym",
+      "category": "Gym",
+      "location": "Sydney",
+      "price": 50,
+      "services": ["PT", "Group Classes", "Sauna"],
+      "vibe": "Performance & Intensity"
+    },
+    {
+      "id": 2,
+      "name": "Zen Yoga Studio",
+      "category": "Yoga",
+      "location": "Melbourne",
+      "price": 40,
+      "services": ["Group Classes", "Meditation Room"],
+      "vibe": "Calm & Wellness"
+    },
+    {
+      "id": 3,
+      "name": "BoxFit Arena",
+      "category": "Boxing",
+      "location": "Brisbane",
+      "price": 45,
+      "services": ["Group Classes", "PT"],
+      "vibe": "Performance & Intensity"
+    },
+    {
+      "id": 4,
+      "name": "Pilates Core",
+      "category": "Pilates",
+      "location": "Sydney",
+      "price": 60,
+      "services": ["Group Classes", "Sauna"],
+      "vibe": "Calm & Wellness"
+    },
+    {
+      "id": 5,
+      "name": "Community Fitness Hub",
+      "category": "Gym",
+      "location": "Melbourne",
+      "price": 35,
+      "services": ["Group Classes", "Sauna", "PT"],
+      "vibe": "Community & Support"
+    },
+    {
+      "id": 6,
+      "name": "Flex Yoga Center",
+      "category": "Yoga",
+      "location": "Brisbane",
+      "price": 30,
+      "services": ["Meditation Room", "Group Classes"],
+      "vibe": "Flexibility & Lifestyle"
+    },
+    {
+      "id": 7,
+      "name": "Iron Muscle Gym",
+      "category": "Gym",
+      "location": "Perth",
+      "price": 55,
+      "services": ["PT", "Sauna", "Group Classes"],
+      "vibe": "Strength & Conditioning"
+    },
+    {
+      "id": 8,
+      "name": "Harmony Pilates",
+      "category": "Pilates",
+      "location": "Melbourne",
+      "price": 50,
+      "services": ["Group Classes", "Sauna", "Private Sessions"],
+      "vibe": "Calm & Wellness"
+    },
+    {
+      "id": 9,
+      "name": "Boxing Pro Gym",
+      "category": "Boxing",
+      "location": "Sydney",
+      "price": 48,
+      "services": ["PT", "Group Classes"],
+      "vibe": "Performance & Intensity"
+    },
+    {
+      "id": 10,
+      "name": "Tranquil Yoga",
+      "category": "Yoga",
+      "location": "Perth",
+      "price": 38,
+      "services": ["Meditation Room", "Group Classes", "Sauna"],
+      "vibe": "Calm & Wellness"
+    },
+    {
+      "id": 11,
+      "name": "Elite Fitness Studio",
+      "category": "Gym",
+      "location": "Brisbane",
+      "price": 65,
+      "services": ["PT", "Group Classes", "Sauna"],
+      "vibe": "High-Energy"
+    },
+    {
+      "id": 12,
+      "name": "Balance Yoga Hub",
+      "category": "Yoga",
+      "location": "Melbourne",
+      "price": 42,
+      "services": ["Meditation Room", "Flexibility Classes"],
+      "vibe": "Mind & Body"
+    },
+    {
+      "id": 13,
+      "name": "Strength & Core Gym",
+      "category": "Gym",
+      "location": "Sydney",
+      "price": 58,
+      "services": ["PT", "Sauna", "CrossFit Classes"],
+      "vibe": "Performance & Intensity"
+    },
+    {
+      "id": 14,
+      "name": "Urban Boxing Club",
+      "category": "Boxing",
+      "location": "Melbourne",
+      "price": 46,
+      "services": ["Group Classes", "PT"],
+      "vibe": "High-Energy"
+    },
+    {
+      "id": 15,
+      "name": "Flex & Flow Pilates",
+      "category": "Pilates",
+      "location": "Brisbane",
+      "price": 55,
+      "services": ["Group Classes", "Private Sessions", "Sauna"],
+      "vibe": "Flexibility & Lifestyle"
+    },
+    {
+      "id": 16,
+      "name": "Community Wellness Hub",
+      "category": "Gym",
+      "location": "Perth",
+      "price": 40,
+      "services": ["Group Classes", "Sauna"],
+      "vibe": "Community & Support"
+    },
+    {
+      "id": 17,
+      "name": "Zenith Yoga Studio",
+      "category": "Yoga",
+      "location": "Sydney",
+      "price": 45,
+      "services": ["Meditation Room", "Group Classes"],
+      "vibe": "Calm & Wellness"
+    },
+    {
+      "id": 18,
+      "name": "Boxing Elite Arena",
+      "category": "Boxing",
+      "location": "Perth",
+      "price": 50,
+      "services": ["PT", "Group Classes"],
+      "vibe": "Performance & Intensity"
+    },
+    {
+      "id": 19,
+      "name": "Pilates Studio Plus",
+      "category": "Pilates",
+      "location": "Sydney",
+      "price": 60,
+      "services": ["Sauna", "Group Classes", "Private Sessions"],
+      "vibe": "Calm & Wellness"
+    },
+    {
+      "id": 20,
+      "name": "Pulse Community Gym",
+      "category": "Gym",
+      "location": "Melbourne",
+      "price": 38,
+      "services": ["Group Classes", "PT"],
+      "vibe": "Community & Support"
+    }
+  ]
+  
